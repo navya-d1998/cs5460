@@ -61,9 +61,9 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 # Schedule
 
 **Jan 7**  
-- [Lecture 0 - Logistics](./lectures/lecture00-logistics/lecture00-logistics.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))
-- [Lecture 1 - Introduction](./lectures/lecture01-intro/lecture01-intro.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))
-- Reading: [OSTEP: 2 Introduction](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
+- [Lecture 0 - Logistics](./lectures/lecture00-logistics/lecture00-logistics.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))  
+- [Lecture 1 - Introduction](./lectures/lecture01-intro/lecture01-intro.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))  
+- Reading: [OSTEP: 2 Introduction](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)  
 - Reading (optional, to help you with C): [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition) (look at Chapter 5 Pointers and Arrays) by Brian Kernighan and Dennis Ritchie (first edition is freely available, second edition is in print and is available from all major bookstores)
 		
 
@@ -77,7 +77,18 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 - Reading: [OSTEP: Chapter 5: Interlude: Process API](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)
 
 
+**March 6**
+- Midterm exam (regular time and place)
+
+
+**March 11**
+- No class (Spring Break)
+
+**March 13**
+- No class (Spring Break)
+
 **April 29**
 - Final exam 8:00am - 10:00am (same room) [official schedule](https://registrar.utah.edu/academic-calendars/final-exams-spring.php)
+
 
 
