@@ -1,0 +1,32 @@
+baseURL: 'https://mars-research.github.io/cs5460/'
+languageCode: 'en-us'
+title: 'CS 5460/6460'
+
+params:
+  ShowReadingTime: true
+  ShowFullTextinRSS: true
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+  disableSpecial1stPost: true
+  editPost:
+    URL: 'https://github.com/mars-research/cs6465/blob/main/content'
+    Text: Suggest Changes
+    appendFilePath: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    #- identifier: publications
+    #  name: Publications
+    #  url: /publications
+    #  weight: 20
+
+# Allow raw HTML in content
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+

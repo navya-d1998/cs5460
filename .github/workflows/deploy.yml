@@ -1,0 +1,36 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4.1.7
+
+      - uses: DeterminateSystems/nix-installer-action@v13
+        continue-on-error: true # Self-hosted runners already have Nix installed
+
+      - name: Build website
+        run: nix build .#website
+
+      - name: Copy website artifact
+        run: |
+          cp --recursive --dereference --no-preserve=mode,ownership result public
+
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v3.0.1
+        with:
+          path: public
+
+      - name: Deploy website
+        uses: actions/deploy-pages@v4.0.5
