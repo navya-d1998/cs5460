@@ -60,20 +60,20 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 
 
 **Jan 7**  
-[Lecture 0 - Logistics](./lectures/lecture00-logistics/lecture00-logistics.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))
-[Lecture 1 - Introduction](./lectures/lecture01-intro/lecture01-intro.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))
-Reading: [OSTEP: 2 Introduction](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
-Reading (optional, to help you with C): [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition) (look at Chapter 5 Pointers and Arrays) by Brian Kernighan and Dennis Ritchie (first edition is freely available, second edition is in print and is available from all major bookstores)
+- [Lecture 0 - Logistics](./lectures/lecture00-logistics/lecture00-logistics.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))
+- [Lecture 1 - Introduction](./lectures/lecture01-intro/lecture01-intro.pdf) ([video](https://youtube.com/live/lLwee3ElfyA))
+- Reading: [OSTEP: 2 Introduction](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
+- Reading (optional, to help you with C): [The C Programming Language](https://archive.org/details/TheCProgrammingLanguageFirstEdition) (look at Chapter 5 Pointers and Arrays) by Brian Kernighan and Dennis Ritchie (first edition is freely available, second edition is in print and is available from all major bookstores)
 		
 
 **Jan 9**  
-[Lecture 02 - OS Interfaces (part 1)](./lectures/lecture02-os-interface/lecture02-os-interface.pdf) ([video](https://youtube.com/live/0cZx8caiIS8))
-Reading: [xv6: Chapter 0: Operating system interfaces](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)
-Video (optional): [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+- [Lecture 02 - OS Interfaces (part 1)](./lectures/lecture02-os-interface/lecture02-os-interface.pdf) ([video](https://youtube.com/live/0cZx8caiIS8))
+- Reading: [xv6: Chapter 0: Operating system interfaces](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)
+- Video (optional): [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 
 **Jan 14**  
-[Lecture 02 - OS Interfaces (part 2)](./lectures/lecture02-os-interface/lecture02-os-interface.pdf) ([video]())
-Reading: [OSTEP: Chapter 5: Interlude: Process API](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)
+- [Lecture 02 - OS Interfaces (part 2)](./lectures/lecture02-os-interface/lecture02-os-interface.pdf) ([video]())
+- Reading: [OSTEP: Chapter 5: Interlude: Process API](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)
 
 
 
