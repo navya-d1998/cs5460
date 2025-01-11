@@ -8,16 +8,16 @@ title: Home
 
 - Instructor: [Anton Burtsev](https://users.cs.utah.edu/~aburtsev/) (anton.burtsev@utah.edu)
 - Time and place: Tue/Thu, 9:10am - 10:30am, [WEB L101](https://map.utah.edu/index.html?code=WEB)
-- Canvas: [link](https://utah.instructure.com/courses/1022264)
-- Piazza (questions): [link](https://piazza.com/utah/spring2025/cs5460001spring2025/home)
-- Gradescope (homework assignments and quizzes): [link](ihttps://www.gradescope.com/courses/947893)
+- Canvas: [https://utah.instructure.com/courses/1022264](https://utah.instructure.com/courses/1022264)
+- Piazza (questions): [https://piazza.com/utah/spring2025/cs5460001spring2025/home](https://piazza.com/utah/spring2025/cs5460001spring2025/home)
+- Gradescope (homework assignments and quizzes): [https://www.gradescope.com/courses/947893](https://www.gradescope.com/courses/947893)
 - Office hours: TBD [Anton's office, MEB 3424](https://map.utah.edu/index.html?code=MEB) 
 - Class repo (pull requests): [github](https://github.com/mars-research/cs5460)
 
 ---
 
 
-## Class Overview
+# Class Overview
 
 cs5460/6460 teaches the fundamentals of operating systems. You will study, in
 detail, virtual memory, kernel and user mode, system calls, threads, context
@@ -51,7 +51,7 @@ production operating systems, and correspondingly easier to understand. xv6 has
 a structure similar to many modern operating systems; once you've explored xv6
 you will find that much is familiar inside kernels such as Linux.
 
-## Grading policy
+### Grading policy
 
 Homework: 40%, in-class activities: 10%, quizzes 15%, midterm exam: 15%, final exam: 20% of your grade (all grades curved). 
 
