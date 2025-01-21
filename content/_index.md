@@ -11,7 +11,8 @@ title: Home
 - Canvas: [https://utah.instructure.com/courses/1022264](https://utah.instructure.com/courses/1022264)
 - Piazza (questions): [https://piazza.com/utah/spring2025/cs5460001spring2025/home](https://piazza.com/utah/spring2025/cs5460001spring2025/home)
 - Gradescope (homework assignments and quizzes): [https://www.gradescope.com/courses/947893](https://www.gradescope.com/courses/947893)
-- Office hours: TBD [Anton's office, MEB 3424](https://map.utah.edu/index.html?code=MEB) 
+- Office hours: 
+  -- Anton: Thursdays 11:00am-12:00pm [Anton's office, MEB 3424](https://map.utah.edu/index.html?code=MEB) 
 - Class repo (pull requests): [github](https://github.com/mars-research/cs5460)
 
 ---
