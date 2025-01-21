@@ -14,7 +14,7 @@ title: Home
 - Office hours: 
   - Anton: Thursdays 11:00am-12:00pm [Anton's office, MEB 3424](https://map.utah.edu/index.html?code=MEB)
   - Soham: Tuesdays 11:00am-12.00pm [MEB 3145](https://map.utah.edu/index.html?code=MEB)
-  - Rutuja: Wednesdays 12.00pm-1.00pm [MEB 3145](https://map.utah.edu/index.html?code=MEB)
+  - Rutuja: Wednesdays 12.00pm-1.00pm [MEB 3105](https://map.utah.edu/index.html?code=MEB)
   - Navya: Mondays 12.00pm-1.00pm [MEB 3515](https://map.utah.edu/index.html?code=MEB) 
 - Class repo (pull requests): [github](https://github.com/mars-research/cs5460)
 
