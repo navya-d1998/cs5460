@@ -94,7 +94,7 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 **Jan 28**  
 - [Lecture 05 - Linking and Loading](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video]())
 - Reading: [Operating Systems from 0 to 1. Chapter 5. The Anatomy of a Program](https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf)
-- Optional reading: This lecture is mostly based on the material of this book: [Linkers and Loaders by John R. Levine](https://books.google.com/books/about/Linkers_and_Loaders.html?id=Id9cYsIdjIwC&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
+- Optional reading: This lecture is mostly based on the material of this book: [Linkers and Loaders by John R. Levine](https://books.google.com/books/about/Linkers_and_Loaders.html?id=Id9cYsIdjIwC)
 
 **Jan 30** 
 - [Lecture 05 - Linking and Loading (part 2)](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video]())
