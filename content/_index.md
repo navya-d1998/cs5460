@@ -82,6 +82,23 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 - Reading: [Reading: xv6 Book: Appendix A: PC Hardware](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)
 - Reading: [Reading: x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
+**Jan 21**  
+- [Lecture 03 - x86 Assembly (part 2)](./lectures/lecture03-x86-asm/lecture03-x86-asm.pdf) ([video](https://youtube.com/live/cIioOwbGERo))
+- [Lecture 04 - Calling Conventions](./lectures/lecture04-calling-conventions/lecture04-calling-conventions.pdf) ([video](https://youtube.com/live/cIioOwbGERo))
+- Reading: [PC Assembly Language. Paul A. Carter: Section 4 Subprograms (4.1 - 4.5)](https://pdos.csail.mit.edu/6.828/2014/readings/pcasm-book.pdf)
+- Reading [Wikipedia: x86 calling conventions](https://en.wikipedia.org/wiki/X86_calling_conventions)
+
+**Jan 23**  
+- [Lecture 04 - Calling Conventions](./lectures/lecture04-calling-conventions/lecture04-calling-conventions.pdf) ([video]())
+
+**Jan 28**  
+- [Lecture 05 - Linking and Loading](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video]())
+- Reading: [Operating Systems from 0 to 1. Chapter 5. The Anatomy of a Program](https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf)
+- Optional reading: This lecture is mostly based on the material of this book: [Linkers and Loaders by John R. Levine](https://books.google.com/books/about/Linkers_and_Loaders.html?id=Id9cYsIdjIwC&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
+
+**Jan 30** 
+- [Lecture 05 - Linking and Loading (part 2)](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video]())
+
 
 **March 6**
 - Midterm exam (regular time and place)
