@@ -79,7 +79,6 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 **Jan 14**  
 - [Lecture 02 - OS Interfaces (part 2)](./lectures/lecture02-os-interface/lecture02-os-interface.pdf) ([video](https://youtube.com/live/UzqupNygAZ4))
 - Reading: [OSTEP: Chapter 5: Interlude: Process API](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)
-- [Homework 1 - Shell](./homework/hw1-shell/)
 
 **Jan 16**  
 - [Lecture 02 - OS Interfaces (part 3)](./lectures/lecture02-os-interface/lecture02-os-interface.pdf)
@@ -92,6 +91,7 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 - [Lecture 04 - Calling Conventions](./lectures/lecture04-calling-conventions/lecture04-calling-conventions.pdf) ([video](https://youtube.com/live/cIioOwbGERo))
 - Reading: [PC Assembly Language. Paul A. Carter: Section 4 Subprograms (4.1 - 4.5)](https://pdos.csail.mit.edu/6.828/2014/readings/pcasm-book.pdf)
 - Reading [Wikipedia: x86 calling conventions](https://en.wikipedia.org/wiki/X86_calling_conventions)
+- [Homework 1 - Shell](./homework/hw1-shell/)
 
 **Jan 23**  
 - [Lecture 04 - Calling Conventions](./lectures/lecture04-calling-conventions/lecture04-calling-conventions.pdf) ([video]())
