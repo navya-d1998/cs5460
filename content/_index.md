@@ -105,6 +105,8 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 **Jan 30** 
 - [Lecture 05 - Linking and Loading (part 2)](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video]())
 
+**Feb 4** 
+- [**Homework 2 - ELF**](./homework/hw2-elf/)
 
 **March 6**
 - Midterm exam (regular time and place)
