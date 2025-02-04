@@ -98,12 +98,25 @@ You can submit late homework assignments (not quizzes or in-class activities) 3 
 - Source code examples: [github](https://github.com/mars-research/cs5460/tree/main/static/lectures/lecture03-x86-asm/src)
 
 **Jan 28**  
-- [Lecture 05 - Linking and Loading](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video]())
+- [Lecture 05 - Linking and Loading](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video](https://youtu.be/SkyJH1wTPjc)
 - Reading: [Operating Systems from 0 to 1. Chapter 5. The Anatomy of a Program](https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf)
 - Optional reading: This lecture is mostly based on the material of this book: [Linkers and Loaders by John R. Levine](https://books.google.com/books/about/Linkers_and_Loaders.html?id=Id9cYsIdjIwC)
 
 **Jan 30** 
-- [Lecture 05 - Linking and Loading (part 2)](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video]())
+- [Lecture 05 - Linking and Loading (part 2)](./lectures/lecture05-linking-and-loading/lecture05-linking-and-loading.pdf) ([video](https://youtube.com/live/uCQcn2VlGgs))
+
+**Feb 4** 
+- [Lecture 06 - Segmentation and Paging](./lectures/lecture06-address-translation/lecture06-address-translation.pdf) ([video](https://youtube.com/live/hwulcVvWuMw))
+- Reading: [Intel 64 and IA-32 architectures software developer's manual volume 3A: System programming guide, part 1 (Chapter 3: 3.1-3.4.5 and Chapter 4: 4.2-4.3)](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf)
+
+
+**Feb 6** 
+- [Lecture 06 - Segmentation and Paging (part 2)](./lectures/lecture06-address-translation/lecture06-address-translation.pdf) ([video]())
+- Reading: [OSTEP: Chapter 18 Paging: introduction: only Sections 18.1 - 18.3](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)
+- Reading: [OSTEP: Chapter 20: only Section 20.3 Multi-level Page Tables](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf)
+- Reading: [Intel 64 and IA-32 architectures software developer's manual volume 3A: System programming guide, part 1 (Chapter 3: 3.1-3.4.5 and Chapter 4: 4.2-4.3)](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf)
+
+
 
 
 **March 6**
